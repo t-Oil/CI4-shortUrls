@@ -1,0 +1,6 @@
+__ci_last_regenerate|i:1627410492;_ci_previous_url|s:32:"http://localhost:8080/index.php/";err|s:101:"	<div class="errors" role="alert">
+		<ul>
+					<li>The url field is required.</li>
+				</ul>
+	</div>
+";__ci_vars|a:1:{s:3:"err";s:3:"old";}

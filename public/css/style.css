@@ -1,0 +1,35 @@
+:root{
+  --dark-blue: #0053ff;
+}
+
+.text-primary-theme{
+  color: var(--blue);
+}
+
+.bg-primary-theme{
+  background-color: var(--blue);
+}
+
+.btn-primary-theme{
+  color: #fff;
+    background-color: var(--blue);
+    border-color: #007bff;
+}
+
+.btn-primary-theme:hover {
+  color: #fff;
+  background-color: var(--dark-blue);
+  border-color: #0062cc;
+}
+
+.break-word{
+  word-wrap: break-word;
+}
+
+.tableFixHead          { overflow: auto; height: 300px; }
+.tableFixHead thead th { position: sticky; top: 0; z-index: 1; }
+
+/* Just common table stuff. Really. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:#eee; }
